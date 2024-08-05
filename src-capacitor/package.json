@@ -1,0 +1,13 @@
+{
+  "name": "raw-build",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "Aleksandr Alekseev <alekseev.a@atbgroup.ru>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.1",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
